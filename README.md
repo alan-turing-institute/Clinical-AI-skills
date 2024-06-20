@@ -8,7 +8,7 @@ The Clinical AI Interest Group is organised by Nick Fuggle, Alisha Davies, Joe A
 
 ### Clinical AI Skills Townhalls
 * We held two Clinical AI Skills Townhalls on 17th and 20th June 2024 to discuss and collect information from our community.
-  * [Slides from the townhalls can be found here]()
+  * [Slides from the townhalls can be found here](https://github.com/alan-turing-institute/Clinical-AI-skills/blob/main/Clinical-AI-skills-townhalls-%2017and20June2024.pptx.pdf)
   * [Summary of notes from the townhalls are here]() 
 
 ### Clinical AI Skills Workshop
