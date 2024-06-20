@@ -1,6 +1,6 @@
 # Clinical AI skills
 
-This is project was initiated by The Alan Turing Institute's [Clinical AI Interest Group](https://www.turing.ac.uk/research/interest-groups/clinical-ai).
+This is project was initiated by The Alan Turing Institute's [Clinical AI Interest Group](https://www.turing.ac.uk/research/interest-groups/clinical-ai) and also supported by the Shakir Laher, Research Application Manager at The Alan Turing Institute.
 
 The Clinical AI Interest Group is organised by Nick Fuggle, Alisha Davies, Joe Alderman and Emma Karoune. 
 
