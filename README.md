@@ -2,8 +2,17 @@
 
 This is project was initiated by The Alan Turing Institute's [Clinical AI Interest Group](https://www.turing.ac.uk/research/interest-groups/clinical-ai).
 
-
 The Clinical AI Interest Group is organised by Nick Fuggle, Alisha Davies, Joe Alderman and Emma Karoune. 
+
+## Project updates
+
+### Clinical AI Skills Townhalls
+* We held two Clinical AI Skills Townhalls on 17th and 20th June 2024 to discuss and collect information from our community.
+  * [Slides from the townhalls can be found here]()
+  * [Summary of notes from the townhalls are here]() 
+
+### Clinical AI Skills Workshop
+* We held an in person meeting on 2nd July 2024. To further discuss this issue and make an action plan to progress this project. 
 
 ## Contact
 If you have any questions about this project, please contact [Clinical AI Organisers](mailto:ClinicalAIInterestGroupOrganisers@turing.ac.uk)
